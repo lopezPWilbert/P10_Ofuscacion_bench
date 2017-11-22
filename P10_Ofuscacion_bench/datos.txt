@@ -1,0 +1,8 @@
+-----------------------------------------
+Hora 10:25:49
+Tiempos registrados: [0.003000020980834961, 0.003000020980834961, 0.004999876022338867]
+Media de tiempos: 0.003666639328
+Moda de tiempos: 0.00300002098083
+Mediana de tiempos: 0.00300002098083
+Definicion estandar de la poblacion de tiempos: 8.88760041562e-07
+Desviacion estandar de la muestra de tiempos: 0.000942740707492
